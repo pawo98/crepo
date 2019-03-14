@@ -1,0 +1,2 @@
+c:\users\paweł\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Paweł\source\repos\pawo98\crepo\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
